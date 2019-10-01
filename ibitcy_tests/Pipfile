@@ -1,0 +1,10 @@
+[packages]
+selenium = "==3.141.0"
+allure-pytest= "==2.8.5"
+simple-settings = "==0.13.0"
+pyhamcrest= "==1.9.0"
+
+[dev-packages]
+pytest = "==3.0.7"
+tox = "==3.14.0"
+simple-settings= "==0.12.1"
